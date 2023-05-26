@@ -1,10 +1,6 @@
 # gitskills
 
 ```
-Creating a new branch is quick.
+Creating a new branch is qui
 ```
-
-这是dev的文件
-
-码码码码码码码码
 
